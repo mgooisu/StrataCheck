@@ -35,20 +35,24 @@ ratings re:
 2. is it a high-risk contract?
 3. are there multiple things they should be checking out with regards to
 their contract?
+
 Over the lifetime of this project (with successive teams) our aspirational
 goals are to develop:
-1.Cloud Infrastructure that handles data input/output, software
+1. Cloud Infrastructure that handles data input/output, software
 developments, deployments, system maintenance, security, and
 scalability, related to the entire development cycle for coding, modeling,
 UI, and middle-tier business logic.
-2.A library of open-source packages (such as scikit-learn and PyTorch) and
+
+2. A library of open-source packages (such as scikit-learn and PyTorch) and
 later a custom/open-source developed ML technology for model
 development.
-3.An auditor with user-friendly UI to monitor model performance and
+
+3. An auditor with user-friendly UI to monitor model performance and
 audit machine learning pipeline
-4.Document Analysis through ML application with a UI, designed to
+4. Document Analysis through ML application with a UI, designed to
 analyse documents, extract data, and display and review document
 information.
+
 This is clearly aspirational, and we would just be thankful for a motivated
 team to get us started and under way for what is ultimately a large-scale
 project.
